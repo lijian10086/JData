@@ -15,3 +15,7 @@
 - **exlpore_potential_user.ipynb**     探索高潜用户行为  
 
 **Note**: 欢迎大家在Issues区提出问题，进行讨论
+
+##来源博客：
+https://blog.csdn.net/liuhuoxingkong/article/details/70049019
+京东算法大赛-高潜用户购买意向预测（一） 资料整理
