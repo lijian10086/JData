@@ -19,3 +19,5 @@
 ##来源博客：
 https://blog.csdn.net/liuhuoxingkong/article/details/70049019
 京东算法大赛-高潜用户购买意向预测（一） 资料整理
+https://blog.csdn.net/liuhuoxingkong/article/details/70170696
+京东算法大赛-高潜用户购买意向预测（二）策略迭代
